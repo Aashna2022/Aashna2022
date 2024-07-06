@@ -1,3 +1,4 @@
+![logo](https://github.com/Aashna2022/Aashna2022/blob/main/Beige%20and%20White%20Modern%20LinkedIn%20Background%20Photo.png)
 <h1 align="center">Hi 👋, I'm Aashna Singh</h1>
 <h3>I am Passionate about Machine Learning and AI</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
